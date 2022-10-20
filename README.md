@@ -13,7 +13,7 @@ A workspace has been created that holds all the python code developed during thi
 1) hx711.py - Load cell amplifier logic to measure the weight.
 2) Final_Integration.py - Contains the full code to measure weight and providing conveyor belt speed control based on the weight of the component.
 
-For in depth information on part selection, electronic components, electrical connections and pseudo code please refer Project report in the Report folder
+For in depth information on part selection, electronic components, electrical connections and pseudo code please refer Project Report in the "Report" folder
 
 Required Resources -
 
