@@ -5,9 +5,9 @@ This repository consists of all the scripts during the duration of this course.
 
 Team Automates consists of the following members:
 
-Mihir Bangale
-Shubham Garde
-Chirag Mutha
+1) Mihir Bangale
+2) Shubham Garde
+3) Chirag Mutha
 
 A workspace has been created that holds all the python code developed during this course. Following is a list of all the pyhton code:
 1) hx711.py - Load cell amplifier logic to measure the weight.
